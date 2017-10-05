@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">VKNewsFeed</string>
+
+    <integer name="com_vk_sdk_AppId">6167779</integer>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="font_heart">&#xE87D;</string>
+    <string name="font_comment">&#xE0B9;</string>
+    <string name="font_repost">&#xE050;</string>
+
+    <string name="screen_name_news">News</string>
+
+    <string name="screen_name_my_posts">My Posts</string>
+    <string name="screen_name_settings">Settings</string>
+    <string name="screen_name_members">Members</string>
+    <string name="screen_name_topics">Topics</string>
+    <string name="screen_name_info">Info</string>
+    <string name="screen_name_rules">Group Rules</string>
+    <string name="screen_name_image">Image</string>
+    <string name="screen_name_opened_post">Post</string>
+    <string name="screen_name_comments">Comments</string>
+    <string name="screen_name_opened_comment">Comment</string>
+
+    <string name="new_message_title">Новая запись</string>
+    <string name="add_message_text">Добавьте текст сообщения</string>
+    <string name="message_not_published">Запись не опубликована. Возможно, у вас нет прав для публикации на стене группы</string>
+    <string name="loading_completed">Загружено</string>
+    <string name="loading_failed">Ошибка загрузки. Убедитесь, что имя файла не содержит пробелы и кириллицу</string>
+
+    <string name="message">Message</string>
+    <string name="vk_group_default_name">FandroidVKTest</string>
+
+    <string name="pref_push_notifications">Получать push-уведомления</string>
+
+    <string name="pref_push_notification_admin">От администратора</string>
+    <string name="pref_push_notification_members">От участников</string>
+    <string name="pref_push_notification_comment_replies">Ответы мне</string>
+    <string name="need_login">Для работы приложения небходимо авторизоваться!</string>
+    <string name="group_rules">http://www.fandroid.info/gruppa-vzaimopomoshhi-dlya-nachinayushhih-android-razrabotchikov-i-programmistov-osvoim-android-vmeste/</string>
+
+    <string name="title_links">Ссылки</string>
+    <string name="title_contacts">Контакты</string>
+</resources>
